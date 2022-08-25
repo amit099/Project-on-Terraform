@@ -3,8 +3,8 @@
 # Setpassword & DB Variables
 DBName='tcw'
 DBUser='tcw'
-DBPassword='amit1234'
-DBRootPassword='amit1234'
+DBPassword='amit0987'
+DBRootPassword='amit0987'
 DBEndpoint='terraform-20220824130733006700000001.chmwyc8ape9t.us-east-1.rds.amazonaws.com'
 
 # System Updates
