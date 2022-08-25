@@ -3,8 +3,8 @@
 # Setpassword & DB Variables
 DBName='tcw'
 DBUser='tcw'
-DBPassword='TheCloudWorld.2019'
-DBRootPassword='TheCloudWorld.2019'
+DBPassword='amit1234'
+DBRootPassword='amit1234'
 DBEndpoint='terraform-20220824130733006700000001.chmwyc8ape9t.us-east-1.rds.amazonaws.com'
 
 # System Updates
